@@ -18,9 +18,8 @@ export default function Layout({ children, home }) {
         />
         <meta
           property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            "https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png"
-          )}`}
+          content={`https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png`}
+
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />

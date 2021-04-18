@@ -14,13 +14,10 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Breeding 성공기원 페이지입니다~😍"
         />
-        <meta
-          property="og:image"
-          content="https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png"
-
-        />
+        <meta property="og:image" content="https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png"  />
+        <meta property="og:image" content="https://api.breeeeeding.com/images/trainer/N-1-20210318163544.png" />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
